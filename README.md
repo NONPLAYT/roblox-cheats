@@ -23,7 +23,7 @@ Roblox Executors (WIP)
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
 | **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Supported** | Only for MacOS |
-| **Script-Ware iOS | [Website](https://www.script-ware.com/ios) | Only can be downloaded when buyed | **Supported (idk)** | Only for iOS |
+| **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | Only can be downloaded when buyed | **Supported (idk)** | Only for iOS |
 
 # Android Executors
 
