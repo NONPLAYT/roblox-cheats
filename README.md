@@ -31,6 +31,11 @@ Roblox Executors (WIP)
 | :--: | :---: | :------: | :----: | :--: |
 | **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Not recommended, read [this](https://github.com/NONPLAYT/roblox-cheats#notes)** | Mobile executor |
 
+# Exploit API's
+| Name | Links | Download | Status | Info |
+| :--: | :---: | :------: | :----: | :--: |
+| **KRNL API** | [Website](https://krnl.place) | [Download](https://k-storage.com/bootstrapper/files/KrnlAPI.dll) | **Level 7, +- good** | Have key system |
+
 # Notes
 
 **Fluxus Android** - this version of fluxus may have miner on you'r phone, be careful!
