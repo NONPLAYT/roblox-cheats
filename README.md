@@ -17,6 +17,7 @@ Roblox Executors (WIP)
 | **KRNL** | [Website](https://krnl.place) | [Download](https://krnl.place/download.html) | **Updated, supported** | Most popular Roblox Executor |
 | **Comet** | [Website](https://cometrbx.xyz) | [Download](https://wearedevs.net/d/Comet) | **Updated, supported** | Undetected Executor |
 | **Script-Ware** | [Website](https://www.script-ware.com/w) | Only can be downloaded when buyed | **Updated, supported** | Easy to use, good support and etc. |
+| **Synapse X** | [Website](https://x.synapse.to) | Only can be downloaded when buyed | **Update, supported** | **Soon they will change type of lifetime sub to montly sub...** |
 
 # Mac OS & Apple Executors
 
@@ -24,18 +25,22 @@ Roblox Executors (WIP)
 | :--: | :---: | :------: | :----: | :--: |
 | **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Supported** | Only for MacOS |
 | **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | Only can be downloaded when buyed | **Supported (idk)** | Only for iOS |
+| **Hydrogen Mac** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen_mac) | **Maybe supported, idk** | **I recently found it, but I will add it here** |
 
 # Android Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
 | **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Not recommended, read [this](https://github.com/NONPLAYT/roblox-cheats#notes)** | Mobile executor |
+| **Hydrogen Android** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen.apk) | **Maybe supported, idk** | **I recently found it, but I will add it here** |
 
-# Exploit API's
+# Exploit API's - Read more about exploits and levels [here](https://roblox.fandom.com/wiki/Exploit#Exploit_Levels)
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **KRNL API** | [Website](https://krnl.place) | [Download](https://k-storage.com/bootstrapper/files/KrnlAPI.dll) | **Level 7, +- good** | Have key system |
+| **KRNL API** | [Website](https://krnl.place) | [Download API](https://k-storage.com/bootstrapper/files/KrnlAPI.dll) | **Level 7** | Have key system |
+| **WeAreDevs API** | [Website](https://wearedevs.net/d/Exploit%20API) | [Download API](https://cdnwrd2.com/r/2/1673551714278/WeAreDevs_API.dll) | **Level 5?** | May have malwares and you can get 268 error |
+| **EasyExploits** | [Website](https://easyexploits.com) | [Download API](https://easyexploits.com/downloadexploit?id=6) | **Level 4** | I dont use it 💀 |
 
 # Notes
 
