@@ -42,6 +42,7 @@ Roblox Executors (WIP)
 | **WeAreDevs API** | [Website](https://wearedevs.net/d/Exploit%20API) | [Download](https://cdnwrd2.com/r/2/1673551714278/WeAreDevs_API.dll) | **Level 5?** | May have malwares and you can get 268 error |
 | **EasyExploits** | [Website](https://easyexploits.com) | [Download](https://easyexploits.com/downloadexploit?id=6) | **Level 4** | I dont use it 💀 |
 | **Oxygen U API** | [Website](https://oxygenu.xyz) | [Download](https://github.com/iDevastate/Oxygen-v2/raw/main/Oxygen_API.dll) | **Level ?** | I dont have more info about it. Read docs for more info [here](https://mr-scoop.gitbook.io/oxygen-u-api/guide/including-the-api)
+| **BXExploit API** | WIP | Only for private use! Public use unavailable | **Level 7-8** | My custom API. Available in BXSploit |
 
 # Notes
 
