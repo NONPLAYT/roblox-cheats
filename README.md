@@ -9,22 +9,26 @@ Roblox Executors (WIP)
 
 -------
 
+## ⚠ BYFRON UPDATE
+Many executors not working rn due byfron released on windows clients. We recommend use UWP version of roblox. Search info on google
+
 # Windows Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **JJSploit** | [Website](https://wearedevs.net/dinfo/JJSploit) | [Download](https://wearedevs.net/d/JJSploit) | **Updated, supported** | Lightweight and simple executor |
-| **KRNL** | [Website](https://krnl.place) | [Download](https://krnl.place/download.html) | **Updated, supported** | Most popular Roblox Executor |
+| **JJSploit** | [Website](https://wearedevs.net/dinfo/JJSploit) | [Download](https://wearedevs.net/d/JJSploit) | **Down due byfron** | Lightweight and simple executor |
+| **KRNL** | [Website](https://krnl.place) | [Download](https://krnl.place/download.html) | **Down due byfron** | Most popular Roblox Executor |
 | **Comet** | [Website](https://cometrbx.xyz) | [Download](https://wearedevs.net/d/Comet) | **Updated, supported** | Undetected Executor |
-| **Script-Ware** | [Website](https://www.script-ware.com/w) | Only can be downloaded when buyed | **Updated, supported** | Easy to use, good support and etc. |
-| **Synapse X** | [Website](https://x.synapse.to) | Only can be downloaded when buyed | **Update, supported** | **Soon they will change type of lifetime sub to montly sub...** |
+| **Script-Ware** | [Website](https://www.script-ware.com/w) | Only can be downloaded when buyed | **Down due byfron, found bypass** | Easy to use, good support and etc. |
+| **Synapse X** | [Website](https://x.synapse.to) | Only can be downloaded when buyed | **Down due byfron** | **Soon they will change type of lifetime sub to montly sub...** |
+| **Electron** | [Website](https://ryos.lol/) | [Download](https://ryos.lol/download.php) | **Updated, supported** | Working on UWP version |
 
 # Mac OS & Apple Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
 | **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Supported** | Only for MacOS |
-| **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | Only can be downloaded when buyed | **Supported (idk)** | Only for iOS |
+| **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | [Download guide](https://dev.script-ware.com/docs/iOS/install-guide) | **Supported** | Only for iOS. Requires a key |
 | **Hydrogen Mac** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen_mac) | **Maybe supported, idk** | **I recently found it, but I will add it here** |
 
 # Android Executors
@@ -36,13 +40,13 @@ Roblox Executors (WIP)
 
 # Exploit API's - Read more about exploits and levels [here](https://roblox.fandom.com/wiki/Exploit#Exploit_Levels)
 
-| Name | Links | Download | Status | Info |
+| Name | Links | Download | Level/Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **KRNL API** | [Website](https://krnl.place) | [Download](https://k-storage.com/bootstrapper/files/KrnlAPI.dll) | **Level 7** | Have key system |
-| **WeAreDevs API** | [Website](https://wearedevs.net/d/Exploit%20API) | [Download](https://cdnwrd2.com/r/2/1673551714278/WeAreDevs_API.dll) | **Level 5?** | May have malwares and you can get 268 error |
-| **EasyExploits** | [Website](https://easyexploits.com) | [Download](https://easyexploits.com/downloadexploit?id=6) | **Level 4** | I dont use it 💀 |
-| **Oxygen U API** | [Website](https://oxygenu.xyz) | [Download](https://github.com/iDevastate/Oxygen-v2/raw/main/Oxygen_API.dll) | **Level ?** | I dont have more info about it. Read docs for more info [here](https://mr-scoop.gitbook.io/oxygen-u-api/guide/including-the-api)
-| **BXExploit API** | WIP | Only for private use! Public use unavailable | **Level 7-8** | My custom API. Available in BXSploit |
+| **KRNL API** | [Website](https://krnl.place) | [Download](https://k-storage.com/bootstrapper/files/KrnlAPI.dll) | **Level 7/Down due byfron** | Have key system |
+| **WeAreDevs API** | [Website](https://wearedevs.net/d/Exploit%20API) | [Download](https://cdnwrd2.com/r/2/1673551714278/WeAreDevs_API.dll) | **Level 5/Down due byfron** | May have malwares and you can get 268 error |
+| **EasyExploits** | [Website](https://easyexploits.com) | [Download](https://easyexploits.com/downloadexploit?id=6) | **Level 4/Down due byfron** | I dont use it 💀 |
+| **Oxygen U API** | [Website](https://oxygenu.xyz) | [Download](https://github.com/iDevastate/Oxygen-v2/raw/main/Oxygen_API.dll) | **Level ?/Down due byfron** | I dont have more info about it. Read docs for more info [here](https://mr-scoop.gitbook.io/oxygen-u-api/guide/including-the-api)
+| **BXSploit API** | [Website](https://bxsploit.bxteam.gq) | Download unavailable | **Level 8** | My own API that used in BXSploit. Now have ~29 functions and only working on UWP version |
 
 # Notes
 
