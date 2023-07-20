@@ -35,7 +35,7 @@ Many executors not working rn due byfron released on windows clients. We recomme
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Not recommended, read [this](https://github.com/NONPLAYT/roblox-cheats#notes)** | Mobile executor |
+| **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Works** | Mobile executor |
 | **Hydrogen Android** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen.apk) | **Maybe supported, idk** | **I recently found it, but I will add it here** |
 
 # Exploit API's - Read more about exploits and levels [here](https://roblox.fandom.com/wiki/Exploit#Exploit_Levels)
@@ -47,14 +47,6 @@ Many executors not working rn due byfron released on windows clients. We recomme
 | **EasyExploits** | [Website](https://easyexploits.com) | [Download](https://easyexploits.com/downloadexploit?id=6) | **Level 4/Down due byfron** | I dont use it 💀 |
 | **Oxygen U API** | [Website](https://oxygenu.xyz) | [Download](https://github.com/iDevastate/Oxygen-v2/raw/main/Oxygen_API.dll) | **Level ?/Down due byfron** | I dont have more info about it. Read docs for more info [here](https://mr-scoop.gitbook.io/oxygen-u-api/guide/including-the-api)
 | **BXSploit API** | [Website](https://bxsploit.bxteam.gq) | Download unavailable | **Level 8** | My own API that used in BXSploit. Now have ~29 functions and only working on UWP version |
-
-# Notes
-
-**Fluxus Android** - this version of fluxus may have miner on you'r phone, be careful!
-<details>
-   <summary>Screenshot</summary>
-   <img src="https://user-images.githubusercontent.com/76615486/216768873-fb65a136-d313-4ced-a305-71bd2b8f221f.png" alt="Screen">
-</details>
 
 # Contributing
 
