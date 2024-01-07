@@ -10,7 +10,9 @@ Roblox Executors (WIP)
 -------
 
 ## ⚠ BYFRON UPDATE
-All executors down now due Byfron update. You can view updated executors [here](https://whatexploitsare.online/)
+All executors down now due Byfron update. 
+
+P.S. Executors marked with &dagger; are probably active and working right now 
 
 # Windows Executors
 
@@ -19,24 +21,24 @@ All executors down now due Byfron update. You can view updated executors [here](
 | **JJSploit** | [Website](https://wearedevs.net/dinfo/JJSploit) | [Download](https://wearedevs.net/d/JJSploit) | **Down due byfron** | Lightweight and simple executor |
 | **KRNL** | [Website](https://krnl.place) | [Download](https://krnl.place/download.html) | **Down due byfron** | Most popular Roblox Executor |
 | **Comet** | [Website](https://cometrbx.xyz) | [Download](https://wearedevs.net/d/Comet) | **Down due byfron** | Undetected Executor |
-| **Script-Ware** | [Website](https://www.script-ware.com/w) | Only can be downloaded when buyed | **Down due byfron, found bypass** | Easy to use, good support and etc. |
-| **Synapse X** | [Website](https://x.synapse.to) | Only can be downloaded when buyed | **Down due byfron** | **Soon they will change type of lifetime sub to montly sub...** |
+| **Script-Ware** | [Website](https://www.script-ware.com/w) | No download | **Closed** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
+| **Synapse X** | [Website](https://x.synapse.to) | No download | **Closed** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
 | **Electron** | [Website](https://ryos.lol/) | [Download](https://ryos.lol/download.php) | **Down due byfron** | Working on UWP version |
 
 # Mac OS & Apple Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Down due byfron** | Only for MacOS |
-| **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | [Download guide](https://dev.script-ware.com/docs/iOS/install-guide) | **IDK** | Only for iOS. Requires a key |
-| **Hydrogen Mac** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen_mac) | **Maybe supported, idk** | **I recently found it, but I will add it here** |
+| **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Down due byfron** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
+| **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | [Download guide](https://dev.script-ware.com/docs/iOS/install-guide) | **IDK** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
+| **Hydrogen Mac &dagger;** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen_mac) | **Maybe supported, idk** | **No more info** |
 
 # Android Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
 | **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Down due byfron** | Mobile executor |
-| **Hydrogen Android** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen.apk) | **Maybe supported, idk** | **I recently found it, but I will add it here** |
+| **Hydrogen Android &dagger;** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen.apk) | **Maybe supported, idk** | **No more info** |
 
 # Exploit API's - Read more about exploits and levels [here](https://roblox.fandom.com/wiki/Exploit#Exploit_Levels)
 
