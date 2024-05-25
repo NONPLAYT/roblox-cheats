@@ -9,15 +9,11 @@ Roblox Executors (WIP)
 
 -------
 
-## ⚠ BYFRON UPDATE
-All executors down now due Byfron update. 
-
-P.S. Executors marked with &dagger; are probably active and working right now 
-
 # Windows Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
+| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/windows) | **Working** | Recently found it |
 | **JJSploit** | [Website](https://wearedevs.net/dinfo/JJSploit) | [Download](https://wearedevs.net/d/JJSploit) | **Down due byfron** | Lightweight and simple executor |
 | **KRNL** | [Website](https://krnl.place) | [Download](https://krnl.place/download.html) | **Down due byfron** | Most popular Roblox Executor |
 | **Comet** | [Website](https://cometrbx.xyz) | [Download](https://wearedevs.net/d/Comet) | **Down due byfron** | Undetected Executor |
