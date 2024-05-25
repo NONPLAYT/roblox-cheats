@@ -21,10 +21,11 @@ Roblox Executors (WIP)
 | **Synapse X** | [Website](https://x.synapse.to) | No download | **Closed** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
 | **Electron** | [Website](https://ryos.lol/) | [Download](https://ryos.lol/download.php) | **Down due byfron** | Working on UWP version |
 
-# Mac OS & Apple Executors
+# Mac OS & iOS Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
+| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/ios) | **Working** | Recently found it |
 | **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Down due byfron** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
 | **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | [Download guide](https://dev.script-ware.com/docs/iOS/install-guide) | **IDK** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
 | **Hydrogen Mac &dagger;** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen_mac) | **Maybe supported, idk** | **No more info** |
@@ -33,6 +34,7 @@ Roblox Executors (WIP)
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
+| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/android) | **Working** | Recently found it |
 | **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Down due byfron** | Mobile executor |
 | **Hydrogen Android &dagger;** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen.apk) | **Maybe supported, idk** | **No more info** |
 
