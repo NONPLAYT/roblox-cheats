@@ -1,8 +1,10 @@
 <div align="center">
 
-Roblox Executors (WIP)
+Roblox Executors
 ===
 ***A collection of Roblox executors.***
+
+***Useful [thing](https://bypass.city/) for bypassing Linkvertise etc.***
  
 [![Discord](https://img.shields.io/discord/931595732752953375?style=for-the-badge)](https://discord.gg/p7cxhw7E2M)
 </div>
@@ -13,40 +15,27 @@ Roblox Executors (WIP)
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/windows) | **Working** | Recently found it |
-| **JJSploit** | [Website](https://wearedevs.net/dinfo/JJSploit) | [Download](https://wearedevs.net/d/JJSploit) | **Down due byfron** | Lightweight and simple executor |
-| **KRNL** | [Website](https://krnl.place) | [Download](https://krnl.place/download.html) | **Down due byfron** | Most popular Roblox Executor |
-| **Comet** | [Website](https://cometrbx.xyz) | [Download](https://wearedevs.net/d/Comet) | **Down due byfron** | Undetected Executor |
-| **Script-Ware** | [Website](https://www.script-ware.com/w) | No download | **Closed** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
-| **Synapse X** | [Website](https://x.synapse.to) | No download | **Closed** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
-| **Electron** | [Website](https://ryos.lol/) | [Download](https://ryos.lol/download.php) | **Down due byfron** | Working on UWP version |
+| **Wave** | [Website](https://getwave.gg) | [Download](https://cdn.getwave.gg/userinterface/Wave-Setup.exe) | **Working (paid)** | **$8 / week**, best executor for now |
+| **Seliware** | [Discord](https://seliware.com/) | | **Working (paid)** | **10$ / month**, new and upcoming |
+| **SynapseZ** | [Website](https://synapsez.net) | [Download](https://synapsez.net/download) | **Working (paid)** | **20$ / month**, fork of SynapseX |
+| **Solara** | [Website](https://getsolara.dev/) | [Download](https://4d38a1ec.solaraweb-alj.pages.dev/download/static/files/Bootstrapper.exe) | **Working** | Best free executor (download link probably won't work) |
+| **Nezur** | [Website](https://nezur.io/) | [Download](https://nezur.io/Nezur_Executor.zip) | **Working** | Didn't tested it, probably paid |
+| **JJSploit** | [Website](https://wearedevs.net/dinfo/JJSploit) | [Download](https://wearedevs.net/d/JJSploit) | **Working** | Lightweight executor (some say it's malware) |
 
 # Mac OS & iOS Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/ios) | **Working** | Recently found it |
-| **Script-Ware M** | [Website](https://www.script-ware.com/m) | Only can be downloaded when buyed | **Down due byfron** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
-| **Script-Ware iOS** | [Website](https://www.script-ware.com/ios) | [Download guide](https://dev.script-ware.com/docs/iOS/install-guide) | **IDK** | After the introduction of Byfron, they closed down and began to cooperate with Roblox |
-| **Hydrogen Mac &dagger;** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen_mac) | **Maybe supported, idk** | **No more info** |
+| **Apple-Ware** | [Website](https://appleware.dev) | [Download](https://appleware.dev/download) | **Working** | Not tested but working ig |
+| **Arceus** | [Website](https://spdmteam.com) | [Download](https://spdmteam.com/index?os=ios) | **Unknown** | Probably working, idk |
 
 # Android Executors
 
 | Name | Links | Download | Status | Info |
 | :--: | :---: | :------: | :----: | :--: |
-| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/android) | **Working** | Recently found it |
-| **Fluxus Android** | [Website](https://fluxteam.net/android) | [Download](https://linkvertise.com/530799/fluxus-android-download/1) | **Down due byfron** | Mobile executor |
-| **Hydrogen Android &dagger;** | [Website](https://hydrogen.onl) | [Download](https://hydrogen.onl/hydrogen.apk) | **Maybe supported, idk** | **No more info** |
-
-# Exploit API's - Read more about exploits and levels [here](https://roblox.fandom.com/wiki/Exploit#Exploit_Levels)
-
-| Name | Links | Download | Level/Status | Info |
-| :--: | :---: | :------: | :----: | :--: |
-| **KRNL API** | [Website](https://krnl.place) | [Download](https://k-storage.com/bootstrapper/files/KrnlAPI.dll) | **Level 7/Down due byfron** | Have key system |
-| **WeAreDevs API** | [Website](https://wearedevs.net/d/Exploit%20API) | [Download](https://cdnwrd2.com/r/2/1673551714278/WeAreDevs_API.dll) | **Level 5/Down due byfron** | May have malwares and you can get 268 error |
-| **EasyExploits** | [Website](https://easyexploits.com) | [Download](https://easyexploits.com/downloadexploit?id=6) | **Level 4/Down due byfron** | I dont use it 💀 |
-| **Oxygen U API** | [Website](https://oxygenu.xyz) | [Download](https://github.com/iDevastate/Oxygen-v2/raw/main/Oxygen_API.dll) | **Level ?/Down due byfron** | I dont have more info about it. Read docs for more info [here](https://mr-scoop.gitbook.io/oxygen-u-api/guide/including-the-api)
-| **BXSploit API** | [Website](https://bxsploit.bxteam.gq) | Download unavailable | **Cancelled, Down due byfron BTW** | My own API that used in BXSploit. Now have ~29 functions and only working on UWP version |
+| **Codex** | [Website](https://codex.lol) | [Download](https://codex.lol/android) | **Working** | Annoying UI but for free |
+| **Arceus** | [Website](https://spdmteam.com/) | [Download](https://spdmteam.com/index?os=android) | **Working** | Top executor, great allrounder |
+| **Delta** | [Website](https://deltaexploits.gg) | [Download](https://deltaexploits.gg/delta-executor-mobile) | **Working** | Good performance |
 
 # Contributing
 
